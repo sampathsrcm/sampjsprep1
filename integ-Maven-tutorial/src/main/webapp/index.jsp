@@ -5,7 +5,7 @@
 </head>
 <body>
   <h5>
-    <%="Arhan is a good Boy , There is plety a slip between the cup and the lip - This is continuous pipeline simulation in Devops, may there be peace"%>
+    <%="Arhan is a good Boy , Arhan won the clay cometetion first round"%>
     
   </h5>
   </body>
