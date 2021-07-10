@@ -5,7 +5,7 @@
 </head>
 <body>
   <h1>
-    <%="Arhan is a good Boy , 2nd round clay competetion started"%>
+    <%="Arhan is a good Boy , 2nd round clay competetion started  WHOO WHOO"%>
     
   </h1>
   </body>
