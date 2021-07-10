@@ -4,8 +4,9 @@
     <title>This is CI-CD pipeline build automated pipeline continuous</title>
 </head>
 <body>
-  <h2>
-    <%="Arhan is a good Boy , This is continuous pipeline simulation in Devops, may there be peace"%>  
-  </h2>
+  <h5>
+    <%="Arhan is a good Boy , There is plety a slip between the cup and the lip - This is continuous pipeline simulation in Devops, may there be peace"%>
+    
+  </h5>
   </body>
 </html>
